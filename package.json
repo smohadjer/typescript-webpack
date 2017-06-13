@@ -1,0 +1,17 @@
+{
+  "name": "gulp-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izma",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^2.0.43",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2",
+    "webpack": "^2.2.1"
+  }
+}
