@@ -5,14 +5,15 @@
   "main": "./dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"build": "webpack --watch"
+    "build": "webpack --watch"
   },
   "author": "Izma",
   "license": "ISC",
   "devDependencies": {
     "@types/jquery": "^2.0.43",
-    "ts-loader": "^2.0.3",
-    "typescript": "^2.3.2",
-    "webpack": "^2.2.1"
+    "ts-loader": "4.4.1",
+    "typescript": "2.9.1",
+    "webpack": "4.12.0",
+    "webpack-cli": "^3.0.3"
   }
 }
